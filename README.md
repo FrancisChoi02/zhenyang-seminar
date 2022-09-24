@@ -6,6 +6,7 @@ https://elmas3.github.io/mao-seminar/
 # 成员
 Francis
 Elmas
+Wakaba
 
 # 目录
 ```
